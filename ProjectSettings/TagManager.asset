@@ -8,35 +8,35 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  -
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
   m_SortingLayers:
   - name: Default
     uniqueID: 0
@@ -44,8 +44,14 @@ TagManager:
   - name: BackGround
     uniqueID: 2644438279
     locked: 0
+  - name: Player
+    uniqueID: 3822977353
+    locked: 0
   - name: Object
     uniqueID: 1578629855
+    locked: 0
+  - name: GUI
+    uniqueID: 2403264275
     locked: 0
   - name: Button
     uniqueID: 1898111929
